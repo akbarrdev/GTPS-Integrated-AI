@@ -2,8 +2,6 @@
 
 NevoAI adalah library C++ yang memungkinkan integrasi AI ke dalam GTPS (Growtopia Private Server) dengan mudah dan efisien.
 
-[![Beli API Key](https://img.shields.io/badge/Beli%20API%20Key-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282370784874)
-[![Lihat Harga API](https://img.shields.io/badge/Lihat%20Harga%20API-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/akbarrdev/GTPS-Integrated-AI/blob/main/API_pricelist.md)
 
 ## Tentang
 
@@ -61,3 +59,6 @@ Library ini bebas untuk disertakan dan dijual kembali sebagai bagian dari paket 
 ## Kontak
 
 Untuk pertanyaan atau dukungan, hubungi saya di [WhatsApp](https://wa.me/6282370784874)
+
+[![Beli API Key](https://img.shields.io/badge/Beli%20API%20Key-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282370784874)
+[![Lihat Harga API](https://img.shields.io/badge/Lihat%20Harga%20API-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/akbarrdev/GTPS-Integrated-AI/blob/main/API_pricelist.md)
